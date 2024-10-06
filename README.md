@@ -1,14 +1,14 @@
 # GoodGrit: Workout Mobile App
 
 ## Overview
-GoodGrit is an ios workout application designed to help users achieve their fitness goals. With a user-friendly interface and a variety of features, GoodGrit provides personalized fitness advice, tracks workouts and enhances your fitness journey by leveraging data insights from your Apple Watch.
+GoodGrit is an IOS workout application designed to help users achieve their fitness goals. With a user-friendly interface and a variety of features, GoodGrit provides personalized fitness advice, tracks workouts and enhances your fitness journey by leveraging data insights from your Apple Watch.
 
 ## Features
--  **Track Your Workouts**: Log and monitor your workouts with ease.
+- **Real-Time Exercise Data Tracking**: Log and monitor your workouts in real time.
 - **Personalized Fitness Advice**: Receive tailored recommendations based on your fitness goals.
 - **Data Insights**: Gain valuable insights into your fitness stats, integrating data from the Apple Watch.
 - **Exercise Reminders**: Set reminders to stay consistent with your fitness routine.
-- **Social Sharing**: Share your exercise achievements on popular social media platforms.
+- **Social Sharing**: Share your exercise achievements on social media platforms.
 - **Challenges and Competitions**: Join existing challenges or create friendly competitions with friends to stay motivated and earn rewards.
 - **Premium Membership**: Upgrade to premium for exclusive access to trainers and personalized coaching.
 
@@ -38,3 +38,10 @@ To run GoodGrit locally, follow these steps:
 2. Navigate to the project directory: **`cd repo-name`**
 3. Install the dependencies: **`flutter pub get `**
 4. Run the app: **`flutter run `**
+
+## Credits
+This project was developed as a final year project in collaboration with the following team members: 
+- Yoan Agnus Dei Liemanta
+- Trent Lie Han
+- Ruishen Yang
+- Tan Tai Lu
